@@ -8,7 +8,7 @@ AI Student | Flutter Developer | Information Technology Student 🚀
 
 
 <div align="center" style="padding-top: 20px;">
-  <img width="450" 
+  <img width="300" 
     src="https://tse3.mm.bing.net/th/id/OIP.ay6FJOw8idHiEmOiXzg4fQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" />
 </div>
 
