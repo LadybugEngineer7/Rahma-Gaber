@@ -31,7 +31,6 @@ AI Student | Flutter Developer | Information Technology Student 🚀
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
 </p>
-د
 
 ## 📱 Skills & Interests
 
@@ -54,18 +53,12 @@ AI Student | Flutter Developer | Information Technology Student 🚀
 
 ---
 
-## 🤝 Volunteer Work
-
-- ❤️ Resala Association Volunteer  
-
----
 
 ## 📫 Contact Me
 
 <p>
 <a href="mailto:mrg379854@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-red"/></a>
 <a href="https://linkedin.com/in/rahma-gaber-940aaa323"><img src="https://img.shields.io/badge/LinkedIn-Rahma%20Gaber-blue"/></a>
-<a href="tel:01120941014"><img src="https://img.shields.io/badge/Phone-01120941014-green"/></a>
 </p>
 
 ---
