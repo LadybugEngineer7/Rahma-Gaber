@@ -6,7 +6,10 @@ AI Student | Flutter Developer | Information Technology Student 🚀
 
 ---
 
-<img align="right" width="150" src="https://cdn.vectorstock.com/i/500p/43/38/a-red-bug-vector-1464338.jpg" />
+
+
+
+<img align="right" width="150" src="https://pin.it/2clVqqhfK" />
 
 ## 🎓 Education
 
