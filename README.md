@@ -13,10 +13,12 @@ AI Student | Flutter Enthusiast | Information Technology Student 🚀
 - 🏫 Currently studying at **Assiut International Technological University (AITU)**
 - 💻 Major: Information Technology
 - 📱 Interested in Flutter Development
-- 🐞 Working on Ladybug-inspired creative apps
-- 🌱 Always learning and improving my skills
+
 
 ---
+<p align="right">
+  <img width="220" src="YOUR_LADYBUG_IMAGE_LINK" />
+</p>   
 
 ## 🎓 Education
 
@@ -87,28 +89,11 @@ AI Student | Flutter Enthusiast | Information Technology Student 🚀
 
 ## 📫 Contact Me
 
-- 📞 Phone: 01120941014  
-- 📧 Email: mrg379854@gmail.com  
-- 📍 Location: Abu Tig, Assiut, Egypt  
+## 📫 Contact Me
 
----
-
-<details>
-<summary>:girl: Favorite Characters</summary>
-
-<!-- favorites_characters starts -->
-* [Mahiru Shiina](https://anilist.co/character/195602)
-* [Mini Yaemori](https://anilist.co/character/153703)
-* [Yor Forger](https://anilist.co/character/138102)
-* [Marin Kitagawa](https://anilist.co/character/133676)
-* [Holo](https://anilist.co/character/7373)
-* [Jibril](https://anilist.co/character/87887)
-<!-- favorites_characters ends -->
-
-</details>
-
----
-
-<p align="center">
-✨ Always building. Always learning. ✨
+<p>
+<a href="mailto:mrg379854@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-red"></a>
+<a href="https://linkedin.com/in/rahma-gaber-940aaa323" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rahma%20Gaber-0A66C2"></a>
 </p>
+
+---
