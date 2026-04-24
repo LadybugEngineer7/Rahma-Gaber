@@ -6,17 +6,16 @@ AI Student | Flutter Developer | Information Technology Student 🚀
 
 ---
 
-<img align="right" width="250" src="https://cdn.vectorstock.com/i/500p/43/38/a-red-bug-vector-1464338.jpg" />
+<img align="right" width="200" src="https://cdn.vectorstock.com/i/500p/43/38/a-red-bug-vector-1464338.jpg" />
 
-## 🧠 About Me
+## 🎓 Education
 
-- 🎓 Information Technology Student at AITU  
-- 🤖 Background in Artificial Intelligence & Applied Technology  
-- 📱 Passionate about Flutter & Mobile Development  
-- 🐞 Building Ladybug-inspired creative projects  
-- 🌱 Always learning, building, and improving  
+- 🏫 Assiut International Technological University (AITU)  
+  Faculty of Information Technology  
 
----
+- 🎓 Ahmed Diefalla International Applied Technology School  
+  Specialization: Artificial Intelligence  
+
 
 ## 🛠️ Tech Stack
 
@@ -25,9 +24,9 @@ AI Student | Flutter Developer | Information Technology Student 🚀
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
 </p>
-
 ---
 
 ## 📱 Skills & Interests
@@ -36,18 +35,11 @@ AI Student | Flutter Developer | Information Technology Student 🚀
 - 🤖 Artificial Intelligence Basics  
 - 🐍 Python Programming  
 - 💡 Problem Solving  
-- 🎨 UI/UX Design Basics  
 
 ---
-
 ## 🚀 Projects
 
-- 🧠 AI system for detecting ripe & unripe fruits  
-- 📱 Flutter apps development  
-- 🤝 Startup project supported by Entrepreneurship Club  
-- 🌱 Incubated team project in university  
-
----
+- 🧠 AI project & 🤖 Machine Learning practice projects (with school teams)
 
 ## 🏆 Achievements
 
