@@ -1,99 +1,80 @@
 <h1 align="center">Hi 👋, I'm Rahma Gaber</h1>
 
 <p align="center">
-AI Student | Flutter Enthusiast | Information Technology Student 🚀
+AI Student | Flutter Developer | Information Technology Student 🚀
 </p>
 
 ---
 
+<img align="right" width="250" src="https://cdn.vectorstock.com/i/500p/43/38/a-red-bug-vector-1464338.jpg" />
+
 ## 🧠 About Me
 
-- 🎓 Graduated from **Ahmed Diefalla International Applied Technology School**
-- 🤖 Studied Artificial Intelligence (AI) and built multiple projects
-- 🏫 Currently studying at **Assiut International Technological University (AITU)**
-- 💻 Major: Information Technology
-- 📱 Interested in Flutter Development
-
-
----
-<p align="right">
-  <img width="220" src="YOUR_LADYBUG_IMAGE_LINK" />
-</p>   
-
-## 🎓 Education
-
-- 🏫 Assiut International Technological University (AITU)  
-  Faculty of Information Technology  
-- 🎓 Ahmed Diefalla International Applied Technology School  
-  Specialization: Artificial Intelligence
+- 🎓 Information Technology Student at AITU  
+- 🤖 Background in Artificial Intelligence & Applied Technology  
+- 📱 Passionate about Flutter & Mobile Development  
+- 🐞 Building Ladybug-inspired creative projects  
+- 🌱 Always learning, building, and improving  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-- 💻 Programming: Python (OOP), Dart (Flutter), C  
-- 📊 Data Handling: NumPy, Pandas  
-- 📈 Data Visualization: Matplotlib, Seaborn  
-- 🤖 Machine Learning: Scikit-learn, TensorFlow (Basic)  
-- 🔧 Version Control: Git & GitHub  
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
+</p>
 
 ---
 
 ## 📱 Skills & Interests
 
-- 📱 Flutter & Dart (Mobile App Development)
-- 🤖 Artificial Intelligence & Machine Learning Basics
-- 🐍 Python Programming
-- 💡 Problem Solving & Algorithms
-- 🎨 UI/UX Design Basics
-- 🚀 Building Real-World & Creative Projects
+- 📱 Flutter Mobile Apps  
+- 🤖 Artificial Intelligence Basics  
+- 🐍 Python Programming  
+- 💡 Problem Solving  
+- 🎨 UI/UX Design Basics  
 
 ---
 
 ## 🚀 Projects
 
-- 🧠 AI system for detecting **ripe vs unripe fruits** to reduce health risks  
-- 🤝 Partner in a startup supported by the Entrepreneurship Club  
-- 🌱 Project incubated by the Entrepreneurship Club  
-- 📱 Flutter mobile applications  
-- 🤖 Machine Learning practice projects  
+- 🧠 AI system for detecting ripe & unripe fruits  
+- 📱 Flutter apps development  
+- 🤝 Startup project supported by Entrepreneurship Club  
+- 🌱 Incubated team project in university  
 
 ---
 
-## 🏆 Achievements & Competitions
+## 🏆 Achievements
 
-- 🥇 ISEF Competition: Reached Assiut Governorate level  
-- 🏁 SIC Competition: Qualified for final stage  
-- 💡 Participated in "Your Idea is Your Company" competition  
-- 📜 Excel Certificate  
-- 📚 Courses in Machine Learning, Python, Flutter  
-- 🌍 English language development courses  
-- 🚀 Entrepreneurship training programs  
+- 🥇 ISEF Competition – Governorate Level  
+- 🏁 SIC Competition – Final Stage  
+- 💡 Entrepreneurship Club Projects  
+- 📜 Multiple technical certificates (Python, Flutter, ML, Excel)  
 
 ---
 
 ## 🤝 Volunteer Work
 
-- ❤️ Volunteered with Resala Association to support people in need  
+- ❤️ Resala Association Volunteer  
 
 ---
-
-## 🧠 Soft Skills
-
-- 👥 Teamwork  
-- 🗣️ Communication & Presentation Skills  
-- 🔍 Research Skills  
-- ⚡ Fast Learning & Adaptability  
-
----
-
-## 📫 Contact Me
 
 ## 📫 Contact Me
 
 <p>
-<a href="mailto:mrg379854@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-red"></a>
-<a href="https://linkedin.com/in/rahma-gaber-940aaa323" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rahma%20Gaber-0A66C2"></a>
+<a href="mailto:mrg379854@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-red"/></a>
+<a href="https://linkedin.com/in/rahma-gaber-940aaa323"><img src="https://img.shields.io/badge/LinkedIn-Rahma%20Gaber-blue"/></a>
+<a href="tel:01120941014"><img src="https://img.shields.io/badge/Phone-01120941014-green"/></a>
 </p>
 
 ---
+
+<p align="center">
+✨ Always building. Always learning. ✨  
+🐞 Ladybug Inspired Developer
+</p>
