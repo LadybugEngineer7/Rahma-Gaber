@@ -7,7 +7,10 @@ AI Student | Flutter Developer | Information Technology Student 🚀
 ---
 
 
-<img align="right" width="150" src="https://thumbs.dreamstime.com/z/programming-language-wordcloud-26701192.jpg?w=768" />
+<div align="right" style="padding-top: 20px;">
+  <img width="150" 
+    src="https://thumbs.dreamstime.com/z/programming-language-wordcloud-26701192.jpg?w=768" />
+</div>
 
 ## 🎓 Education
 
